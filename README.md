@@ -1,2 +1,2 @@
 # task
-![alt text](https://github.com/[mertkslkc]/[tast]/blob/[branch]/map.png?raw=true)
+![alt text](https://github.com/mertkslkc/task/blob/main/map.png)
