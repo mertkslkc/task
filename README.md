@@ -4,7 +4,7 @@
 Bu kod yıldız haritasından çıkarılan küçük resimleri opencv sift feature matching algoritmasına dayanılarak gelişrilimiştir.***
 
 ***Run:***
-![alt text](https://github.com/mertkslkc/task/blob/main/run.png)
+![alt text](https://github.com/mertkslkc/task/blob/main/run.PNG)
 
 ***Map:***
 ![alt text](https://github.com/mertkslkc/task/blob/main/map.png)
