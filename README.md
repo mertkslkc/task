@@ -4,7 +4,7 @@
 Bu kod yıldız haritasından çıkarılan küçük resimleri opencv sift feature matching algoritmasına dayanılarak gelişrilimiştir.***
 
 ***After running the code, a new file named "result.png" is created.***
-***Kodu çalıştıktan sonra "result.png" adında yeni bir dosya oluşmaktadır !
+***Kodu çalıştıktan sonra "result.png" adında yeni bir dosya oluşmaktadır !***
 
 ***Run:***
 
