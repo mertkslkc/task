@@ -3,6 +3,9 @@
 ***This code was developed based on the opencv sift feature matching algorithm for thumbnails extracted from the star map.                       
 Bu kod yıldız haritasından çıkarılan küçük resimleri opencv sift feature matching algoritmasına dayanılarak gelişrilimiştir.***
 
+***After running the code, a new file named "result.png" is created.
+***Kodu çalıştıktan sonra "result.png" adında yeni bir dosya oluşmaktadır !
+
 ***Run:***
 
 ![alt text](https://github.com/mertkslkc/task/blob/main/run.PNG)
