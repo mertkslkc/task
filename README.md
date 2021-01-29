@@ -11,9 +11,11 @@ Bu kod yıldız haritasından çıkarılan küçük resimleri opencv sift featur
 ![alt text](https://github.com/mertkslkc/task/blob/main/map.png)
 
 ***Input1:***
+
 ![alt text](https://github.com/mertkslkc/task/blob/main/small.png)
 
 ***Input2:***
+
 ![alt text](https://github.com/mertkslkc/task/blob/main/rot.png)
 
 ***Output1:***
